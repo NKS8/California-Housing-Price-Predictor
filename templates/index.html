@@ -14,7 +14,8 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light text-black">
     <div class="container">
-      <a class="navbar-brand text-white" href="home">SML Models Comparison and Price Prediction on California Housing Dataset</a>
+      <a class="navbar-brand text-white" href="home">SML Models Comparison and Price Prediction on California Housing
+        Dataset</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -55,16 +56,18 @@
           <div class="thumbnail">
             <img class="img-thumbnail float-left" src="static/images/LinearRegCoef.png " width="50%" alt="windpseed">
           </div>
-          <p><strong> Supervised Machine Learning Model(SML): SML models tested for better price prediction oh Housing Dataset such as Lasso, Ridge, Elastic Net and
-              Random Forest regressions.</strong>
-            This project studies how different SML models varies on House Price Predictions cities as they locate at different latitude.
+          <p><strong> Supervised Machine Learning Model(SML): Different SML models tested for better price prediction on
+              Housing Dataset such as Lasso, Ridge, Elastic Net and
+              Random Forest Regressions.</strong>
+            This project studies how different SML models score varies, selects best scored model for House Price
+            Prediction, and integrated with HTML, CSS, and Flask.
             Data is pulled from openWeatherMap API, and dataset is built from over 500 cities around the World.
-            Then visualizations are created by Matplotlib by Latitude vs Temperature, Humidity, Cloudiness, and
-            Windspeed.
+            Then visualizations are created by Matplotlib by different Regression models adn its feautures.
           </p>
-          <p>The visualizations"<strong>Visualizations</strong>" are shown in the right by photo-links.</p>
-          <p>The links listed above in the navbar include Latitude vs
-            Temperature, Latitude vs Humidity, Latitude vs Cloud Cover, and Latitude vs Wind Speed (mph).
+          <p>The visualizations"<strong>Visualizations</strong>" are shown in the right by photo-links.
+          </p>
+          <p>The links listed right in the navbar include Linear, LASSO, Ridge, ElasticNet, and Random Forest
+            Regressions.
             The linked images to the side of this text or follow one of the drop down list options
             from above.</p>
         </div>
@@ -94,6 +97,10 @@
             <div class="col-3 col-md-6">
               <a href="ElastNet"><img class="img-thumbnail" src="static/images/ElasticNetCoef.png" width="100%"
                   alt="wind speed"></a>
+              <div class="col-6 col-md-12" style="padding-top:0px;">
+                <a href="Rand_Forest"><img class="highlight" src="static/images/RandForestCoef.png" width="100%"
+                    alt="Rand_Forest"></a>
+              </div>
             </div>
           </div>
         </div>
