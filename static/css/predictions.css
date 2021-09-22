@@ -1,61 +1,89 @@
 
-.single-team .inner {
-    text-align: center;
-	margin-bottom: 35px;
-	border: 1px solid #e5eaf0;
-	padding: 5px 5px 0px;
-}
+a.navbar-brand{
+	margin-left: 10px;
+	padding: 10px;
+	background-color:turquoise;
+	color: darkcyan;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 25px;
+  }
+  
+  
+  h3{
+	color:black;
+	padding: 10px;
+  }
+  
+  .img-thumbnail{
+	padding:5px;
+	margin:5px;
+	border: solid black;
+  }
+  
+  .calculator{
+	background-image: url("../images/predictionsBackground.png")
 
-.single-team .inner .team-img {
-	position: relative;
-}
-
-.single-team .inner .team-img img {
-	width: 100%;
-}
-
-.single-team .inner .team-img::after {
-	content: "";
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
-	opacity: 0;
-}
-
-.single-team .inner .team-img:hover::after {
-	opacity: 0.4;
-}
-
-.single-team .inner .team-content {
-	padding: 22px 0px 0px;
-}
-
-.single-team .inner .team-content h4 {
-	font-size: 18px;
-	font-weight: 400;
-}
-
-.single-team .inner .team-content h5 {
-	font-weight: 300;
-	font-size: 16px;
-	letter-spacing: 0.5px;
-	color: #7d91aa;
-}
-
-.single-team .inner .team-content a {
-	display: inline-block;
-	padding: 2px;
-	margin: 0 3px;
-	font-size: 16px;
-}
-
-.team-social {
-	background: #f3f6fa;
-	width: 50%;
-	padding-top: 4px;
-	margin: auto;
-	border-radius: 15px 15px 0px 0px;
-	margin-top: 17px;
-}
+  }
+  
+  
+  p{
+   color: black;
+   font-size: large;
+   padding:10px;
+  }
+  
+  
+  body{
+	background-color: rgb(241, 241, 238);
+  }
+  .col-md-12{
+	background-color:white;
+	padding-top: 20px;
+	padding-bottom:40px;
+  }
+  
+  
+  .highlight{
+	padding:5px;
+	margin:5px;
+	border: 3px solid rgb(188, 233, 85);
+  }
+  
+  .navbar{
+	padding-top:0px;
+	padding-bottom: 0px;
+	padding-right:40px;
+	background-color:(44, 46, 46);
+  }
+  
+  .nav-item.dropdown.show {
+	background-color: #ddd;
+  }
+  
+  .dropdown-menu {
+	margin: 0;
+  }
+  
+  
+  .content {
+	padding-top: 50px;
+	padding-bottom: 80px;
+	overflow: hidden;
+  }
+  
+  .content.navbar.bg-dark {
+	margin-top: 15px;
+  }
+  
+  @media(max-width:767px){
+	.navbar.bg-dark{
+		background-color: rgb(168, 190, 185) !important;    
+	}
+  
+	.navbar-collapse{
+		background-color: #f8f9fa;
+	}
+	.navbar{
+		padding:inherit;
+	}
+  }
