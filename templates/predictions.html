@@ -1,9 +1,37 @@
 {% extends "base.html" %}
 {% set active_page = "Predictions" %}
 {% block content %}
-<link rel="stylesheet" href="{{url_for('static', filename='css/about.css')}}" />
+<script src="{{url_for('static', filename='js/predictions.js')}}"></script>
+<link rel="stylesheet" href="{{url_for('static', filename='css/predictions.css')}}" />
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-<h1>Housing Price Predictions</h1>
+<div class="container content">
+    <div class="row">
+      <div class="col-md-12 calculator">
+        <div class="row">
+          <div class="col-md-3"></div>
+          <div class="col-md-6">
 
-<script src="{{url_for('static', filename='js/about.js')}}"></script>
+<h1 style="text-align:center;">Housing Price Predictions</h1>
+<div class="row">
+  <div class="col-6" style="background-color:white; border: 2px solid black;">
+<h2 id="prediction-text" style="font-size: medium; text-align:center;">Placeholder</h2>
+</div>
+<div class="col-2"><button onclick="predictionsButtonClicked();">Predict</button></div>
+<div class="col-4"><button onclick="defaultValueButtonCicked();">Random values</button></div>
+</div>
+<br>
+<div id = "text-input-boxes">
+
+  
+</div>
+
+
+</div>
+<div class="col-md-3"></div>
+</div> 
+</div>
+
+</div>
+
+</div>
 {% endblock %}
