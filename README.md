@@ -28,8 +28,9 @@ The lists of technologies are used to complete this project.
    * preprocessed by applying encoding and split, train, and test
    for Machine Learning.
   2. Step 2.
-   * 
    
    
    
-![image](https://user-images.githubusercontent.com/67448948/134741898-a367abd8-7098-4d68-a0ca-bf2f97487b6e.png)
+![image](https://user-images.githubusercontent.com/67448948/134741898-a367abd8-7098-4d68-a0ca-bf2f97487b6e.png) 
+
+to be continued fro tonight
