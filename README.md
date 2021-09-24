@@ -15,7 +15,7 @@ In this project, different Supervised Machine Learning models are comapred and t
     * Python
 1. In order to accomplish the project goal following steps are taken:
   1. Data is researched in various sources, collected raw data. Then the is cleaned and preprocessed for Machine Learning Model.
-    * ![image](https://user-images.githubusercontent.com/67448948/134743092-8db31903-0fc5-44a2-8615-64dcf0df440f.png)
+![image](https://user-images.githubusercontent.com/67448948/134743092-8db31903-0fc5-44a2-8615-64dcf0df440f.png)
 
 
 ![image](https://user-images.githubusercontent.com/67448948/134741898-a367abd8-7098-4d68-a0ca-bf2f97487b6e.png)
