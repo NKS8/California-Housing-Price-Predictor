@@ -4,7 +4,6 @@ In this project, different Supervised Machine Learning models are comapred and t
 1. Model Comparisons:
 ![image](https://user-images.githubusercontent.com/67448948/134741898-a367abd8-7098-4d68-a0ca-bf2f97487b6e.png)
 2. The selected best Machine Learning Model is used to predict housing Price and visualized in the website:
-3. 
 ![image](https://user-images.githubusercontent.com/67448948/134743648-95737a80-0a07-44ae-8eef-9fa6c5fa6d52.png)
 
 
