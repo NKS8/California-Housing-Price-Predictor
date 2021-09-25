@@ -21,14 +21,13 @@ The lists of technologies are used to complete this project.
     * BOOtstrap
     * Flask
     * Python
-2. In order to accomplish the projectfollowing steps are taken:
-2.a 
+2. In order to accomplish the project following steps are taken:
    * Data is researched from various sources such as Kaggle.com and Data.com, 
    * collected raw data 
-   * cleaned dropping na, and filling na's. 
-   * preprocessed by applying encoding and split, train, and test
-     for Machine Learning.
-     2.b
+   * cleaned data by dropping na's, by filling na's, and dropped columns those not useful for Machine Learning. 
+   * preprocessed by applying encoding and split, train, and test for Machine Learning.
+    
+   
    
   
 
