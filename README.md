@@ -27,7 +27,11 @@ The lists of technologies are used to complete this project.
    * cleaned data by dropping na's, by filling na's, and dropped columns those not useful for Machine Learning. 
    * preprocessed by applying encoding and split, train, and test for Machine Learning.
     
-   
+3. Once data is ready applied it into different Machine Learning models. Compared their test scores and apllied scaling as well.
+4.  Chose the model scored best to predict housing price.
+5.  Refined the chosen best scored model selected_features to improve test score and accuracy of housing price prediction.
+6.  Predicted Housing price using the best scored model.
+7.  Visualized the comparisons and analysis of differnt models and price prediction on the website that used HTML, CSS, Flask, Python,     D3, Bootstrap, and JavaScript, and JQuery.
    
   
 
