@@ -10,7 +10,7 @@ In this project, different Supervised Machine Learning models are comapred and t
 The lists of technologies are used to complete this project. 
 1. Technolohies used:
     * Sklearn
-    * numpu
+    * numpy
     * Pandas 
     * Matplotlib
     * HTML
