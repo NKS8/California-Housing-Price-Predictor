@@ -27,7 +27,7 @@ The lists of technologies are used to complete this project.
    * collected raw data 
    * cleaned dropping na, and filling na's. 
    * preprocessed by applying encoding and split, train, and test
-   for Machine Learning.
+     for Machine Learning.
     Step 2.
    
    
