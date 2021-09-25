@@ -22,13 +22,13 @@ The lists of technologies are used to complete this project.
     * Flask
     * Python
 2. In order to accomplish the projectfollowing steps are taken:
-Step 1. 
+   2.a) 
    * Data is researched from various sources such as Kaggle.com and Data.com, 
    * collected raw data 
    * cleaned dropping na, and filling na's. 
    * preprocessed by applying encoding and split, train, and test
      for Machine Learning.
-Step 2.
+   2.b)
    
   
 
