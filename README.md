@@ -28,7 +28,7 @@ The lists of technologies are used to complete this project.
    * cleaned dropping na, and filling na's. 
    * preprocessed by applying encoding and split, train, and test
    for Machine Learning.
-  2. Step 2.
+    Step 2.
    
    
    
