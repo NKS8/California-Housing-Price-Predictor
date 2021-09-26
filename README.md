@@ -32,7 +32,7 @@ Full lists of technologies are used to complete this project.
 4.  Chose the model scored best to predict housing price.
 5.  Refined the chosen best scored model selected_features to improve test score and accuracy of housing price prediction.
 6.  Predicted Housing price using the best scored Machine Learning Model.
-7.  Visualized the comparisons and analysis of differnt models and price prediction on the website that used HTML, CSS, Flask, Python,     D3, Bootstrap, JavaScript, and JQuery.
+7.  The comparisons and analysis of differnt models and price predictions are visualized on the website that used HTML, CSS, Flask, Python, D3, Bootstrap, JavaScript, and JQuery. 
    
   
 
