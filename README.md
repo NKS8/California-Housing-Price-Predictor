@@ -18,7 +18,7 @@ Full lists of technologies are used to complete this project.
     * CSS
     * Javascript
     * D3
-    * BOOtstrap
+    * BOOTstrap
     * Flask
     * Python
     * Jupyternotbook 
