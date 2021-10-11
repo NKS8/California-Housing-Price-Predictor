@@ -11,17 +11,17 @@ b. The selected best Machine Learning Model is used to predict housing Price and
 Full lists of technologies are used to complete this project. 
 1. Technolohies used:
     * Sklearn
-    * numpy
+    * NumPy
     * Pandas 
     * Matplotlib
     * HTML
     * CSS
     * Javascript
     * D3
-    * BOOTstrap
+    * BootStrap
     * Flask
     * Python
-    * Jupyternotbook 
+    * Jupyter notebook 
 2. In order to accomplish the project following steps are taken:
    * Data is researched from various sources such as Kaggle.com and Data.com, 
    * collected raw data 
