@@ -1,6 +1,6 @@
 ## Supervised Machine Learning Model on Housing Price Prediciton 
 
-In this project, different Supervised Machine Learning Models are compared and tested by their scores, and the best scored Model is chosen to predict Housing Price. In order to improve an accuracy of price prediction, the chosen best model is refined by using feature selection method. After model is refined, model is needed to predict housing price. Finally, comparisons, test scores, and housing price predictions are visualized on website that used various technologies such as HTML, CSS, D3, JavaScript, Flasks. 
+In this project, different Supervised Machine Learning Models are compared and tested by their scores, and the best scored Model is chosen to predict Housing Price. In order to improve an accuracy of price prediction, the chosen best model is refined by using feature selection method. After model is refined, model is needed to predict housing price. Finally, comparisons, test scores, and housing price prediction are visualized on website that used various technologies such as HTML, CSS, D3, JavaScript, Flasks. 
 0. Web application: 
 a. Model Comparisons.
 ![image](https://user-images.githubusercontent.com/67448948/134741898-a367abd8-7098-4d68-a0ca-bf2f97487b6e.png)
@@ -9,7 +9,7 @@ b. The selected best Machine Learning Model is used to predict housing Price and
 
 
 Full lists of technologies are used to complete this project. 
-1. Technolohies used:
+1. Technologies used:
     * Sklearn
     * NumPy
     * Pandas 
